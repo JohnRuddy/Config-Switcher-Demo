@@ -1,0 +1,11 @@
+c:\projects\Config-Switcher-Demo\bin\Live\Config-Switcher-Demo.exe.config
+c:\projects\Config-Switcher-Demo\bin\Live\Config-Switcher-Demo.exe.manifest
+c:\projects\Config-Switcher-Demo\bin\Live\Config-Switcher-Demo.application
+c:\projects\Config-Switcher-Demo\bin\Live\Config-Switcher-Demo.exe
+c:\projects\Config-Switcher-Demo\bin\Live\Config-Switcher-Demo.pdb
+c:\projects\Config-Switcher-Demo\obj\Live\Config-Switcher-Demo.csproj.CoreCompileInputs.cache
+c:\projects\Config-Switcher-Demo\obj\Live\Config-Switcher-Demo.exe.manifest
+c:\projects\Config-Switcher-Demo\obj\Live\Config-Switcher-Demo.application
+c:\projects\Config-Switcher-Demo\obj\Live\Config-Switcher-Demo.exe
+c:\projects\Config-Switcher-Demo\obj\Live\Config-Switcher-Demo.pdb
+c:\Projects\Config-Switcher-Demo\obj\Live\Config-Switcher-Demo.csprojAssemblyReference.cache
